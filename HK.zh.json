@@ -6830,7 +6830,7 @@
             "zh",
             "zh"
         ],
-        "size": 3505389568
+        "size": 3706716160
     },
     "70010000014494": {
         "id": "010063200C588000",
@@ -18208,6 +18208,50 @@
             "zh"
         ],
         "size": 158334976
+    },
+    "70010000029376": {
+        "id": "010033A0118DC000",
+        "rightsId": null,
+        "name": "Ninjala\u6436\u5148\u9ad4\u9a57\u6703",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200429,
+        "nsuId": 70010000029376,
+        "category": [
+            "\u52d5\u4f5c"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": null,
+        "developer": null,
+        "publisher": "GUNGHOONLINE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ef814f206209ad79eb5a6096ea62e477cf85595e3f80982f3ac4090c404fdbfb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/04aa7b704eb479eb87664042e573ff8d18142bc1a1db0f51b6e3ceeb70e5008c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec9297ce07b00c7a371a03e9968e6e038bce2303a152b00d5c32335899dd8c4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a52883e8bce7e59ef4c10c88cbf0e09b5a584d8c845cced8f39bc8d7b8b87ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a27807f9536165ba80bd43296b29d83fe76d869000d1728440c1a3f7ebe90b0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1871267b68dea61e681a34b2b926b7104a604e5c54ed84e591b239f50555d67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28d441db4698e4df04da733adb79b468385a684f3935aa9f55df91d647165b90.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c6d9f6dada90aa3dfe34279e5faba9a500e30cc49e495f7d8c2ff7d90428ca3.jpg",
+        "intro": "\u5fcd\u8005\u00d7\u6ce1\u6ce1\u7cd6\uff01\u7dda\u4e0a\u5c0d\u6230\u52d5\u4f5c\u904a\u6232\n\u73a9\u5bb6\u53ef\u5316\u8eab\u70ba\u73fe\u4ee3\u7684\u5fcd\u8005\uff0c\u53c3\u82078\u4eba\u5c0d\u6230\u7684\u5fcd\u8005\u6230\u9b25\u7af6\u8cfd\u300cNinjala\u300d\uff01",
+        "description": "\u9650\u671f\u8209\u8fa6\n\u53ea\u52302020/4/29 20:00 (HKT) \u70ba\u6b62\uff01\n\u25cf\u8209\u8fa6\u6642\u9593\uff08HKT\uff09\n2020/04/29 03:00-03:59\n2020/04/29 11:00-11:59\n2020/04/29 19:00-19:59\n\u203b\u8209\u8fa6\u6642\u9593\u5c07\u6709\u53ef\u80fd\u56e0\u6545\u66f4\u6539\uff0c\u656c\u8acb\u898b\u8ad2\u3002\n\n\u25a0\u5fcd\u8005\u6ce1\u6ce1\u7cd6\n\u53ea\u8981\u4f7f\u7528\u5fcd\u8005\u6ce1\u6ce1\u7cd6\uff0c\u5c31\u80fd\u5439\u6c23\u5c04\u51fa\u6ce1\u6ce1\u7cd6\uff0c\u5c0d\u6b66\u5668\u9032\u884c\u5851\u5f62\uff0c\u6216\u662f\u65bd\u5c55\u6ce1\u6ce1\u7cd6\u885d\u523a\u3002\n\u4e0d\u540c\u7a2e\u985e\u7684\u6ce1\u6ce1\u7cd6\uff0c\u80fd\u5920\u5851\u5f62\u51fa\u7684\u6b66\u5668\u7a2e\u985e\u8207\u5916\u89c0\u4e5f\u4e0d\u4e00\u6a23\u3002\n\u25a0\u5c0d\u6230\u73a9\u6cd5\n\u4ee5\u4e16\u754c\u5404\u5730\u7684\u73a9\u5bb6\u70ba\u5c0d\u624b\uff0c\u5c55\u958b8\u4eba\u5c0d\u6230\u7684\u5927\u4e82\u9b25\uff0c\u7531\u5f97\u5206\u6700\u9ad8\u7684\u73a9\u5bb6\u7372\u5f97\u52dd\u5229\u3002\u53ef\u85c9\u7531\u6253\u5012\u5c0d\u624b\u3001\u7372\u5f97\u9053\u5177\u3001\u6253\u5012\u7121\u4eba\u6a5f\u7b49\u5404\u7a2e\u65b9\u5f0f\u7372\u53d6\u5206\u6578\u3002\u6b64\u5916\uff0c\u4ee5\u300eIPPON\u300f\u83ef\u9e97\u5730\u6253\u5012\u5c0d\u624b\u6642\u66f4\u80fd\u5920\u7372\u5f97\u9ad8\u5206\u3002\n\u25a0\u865b\u64ec\u4eba\u7269\n\u73a9\u5bb6\u53ef\u4ee5\u4f7f\u7528\u4e0d\u540c\u54c1\u724c\u98a8\u683c\u7684\u88dd\u98fe\u9053\u5177\uff0c\u4eab\u53d7\u5404\u5f0f\u5404\u6a23\u7684\u7a7f\u642d\u3002\u7121\u8ad6\u662f\u4eab\u53d7\u55ae\u4e00\u54c1\u724c\u7684\u7a7f\u642d\uff0c\u6216\u662f\u81ea\u5df1\u7d44\u5408\u642d\u914d\u90fd\u6c92\u554f\u984c\u3002\n\n\n\u6b64\u7248\u672c\u70baNinjala\u6436\u5148\u9ad4\u9a57\u6703\u7248\u672c\uff0c\n\u53ef\u4ee5\u9ad4\u9a57\u9023\u7dda\u5c0d\u6230\u7b49\u5b8c\u6574\u7248\u7576\u4e2d\u7684\u90e8\u5206\u5167\u5bb9\u3002\n\u6b64\u7248\u672c\u7684\u5132\u5b58\u8cc7\u6599\u7121\u6cd5\u7e7c\u627f\u81f3\u5b8c\u6574\u7248\u3002",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1439694848
     },
     "70010000029533": {
         "id": "010085000BA5C000",
