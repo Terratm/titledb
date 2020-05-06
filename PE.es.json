@@ -910,6 +910,54 @@
         ],
         "size": 7163871232
     },
+    "70010000001487": {
+        "id": "0100EBA004726000",
+        "rightsId": null,
+        "name": "Huntdown",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200512,
+        "nsuId": 70010000001487,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Lenguaje moderado",
+            "Violencia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Coffee Stain",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/45a8b1eddd31adf553f184a979bce286ff5b36abf786a8becb06ed561563923a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6de7519c82c620c143096171ba48045d69995b5223bd868470f6aab30ceb16fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0210768f5b9f75200d4282c599e19f23fac4f29e7caf00e4392550948cea5d61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc41135fdfa077d04e401dce92efe56ac0b9e760d4fe58c92188aebbb317ff35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32cd62977c789ce3c7567b38ac3160090b7f18a6a2896be8c31e968f0bc74504.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c755216f8924c2e51d89aa30ff3a9cbc673eee21404cee61536f041c91c84097.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b07e6d89a72eeb358d9682123429e8c631c25c16e3d04c735cf8ba64f574db89.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e3f094fc15668a830179feda8be74a424af98e2601aae5ce00b80785c0bb97d.jpg",
+        "intro": "G\u00e1nate la vida haciendo que otros pierdan la suya",
+        "description": "En las ca\u00f3ticas calles del futuro, gobernadas por bandas criminales y que la polic\u00eda no se atreve a pisar, solo los cazarrecompensas pueden liberar la ciudad de la mano corrupta del crimen. Arrasa con el mundo del crimen mientras te haces de oro en este crudo videojuego de disparos lleno de acci\u00f3n y de risas.\n\nCaracter\u00edsticas principales:\n\nCaza solo o lanza fuego de supresi\u00f3n y avanza contra el enemigo en modo cooperativo a medida que corres, saltas y te pones a cubierto en unas ciudades de inspiraci\u00f3n ochentera llenas de neones y grafitis.\n\nGr\u00e1ficos de 16 bits pintados a mano, animaciones hechas tambi\u00e9n a mano, una jugabilidad fluida y llena de acci\u00f3n a 60 FPS y una m\u00fasica de sintetizador \u00e9pica.\n\nCaza todo lo que pilles, desde punkis salvajes hasta bandas organizadas de hooligans; este juego est\u00e1 plagado de malos y jefes de 16 bits, cada uno con su propio territorio que reclamar y su arsenal de armas que confiscar.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 717225984
+    },
     "70010000001515": {
         "id": "010095300212A000",
         "rightsId": "010095300212A0000000000000000003",
@@ -1087,7 +1135,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d.jpg",
         "intro": "El hotel est\u00e1 encantado. Mario est\u00e1 desaparecido. Y la \u00fanica esperanza es\u2026 \u00bf\u00a1Luigi?!",
-        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\nIntenta derrotar a todos los fantasmas, rescatar a todos los toads y cumplir con los objetivos antes de que se acabe el tiempo\u2026 \u00a1en la Torre del Horror! Y para m\u00e1s locura de minijuegos compite en equipos en el Parque de Conmociones. Ya sea que explores el hotel con amigos o en solitario, ser\u00e1s absorbido por la m\u00fasica de ambiente y la espantosa decoraci\u00f3n de cada espeluznante esquina que explores. \u00bfPor qu\u00e9 no disfrutar de los panoramas y sonidos cinematogr\u00e1ficos con un amigo? En la aventura principal, t\u00fa y un amigo podr\u00e1n disfrutar juntos como Luigi y Gomiluigi en un juego cooperativo para dos. Gomiluigi puede caminar sobre picos, cruzar por lugares peque\u00f1os y puede ayudar a Luigi a superar los obst\u00e1culos que por s\u00ed solo no podr\u00eda superar. No est\u00e1 de m\u00e1s tener a un amigo en este hotel; tal vez no sea tan tenebroso, \u00a1pero Luigi no piensa lo mismo!\n\n\u2022\tAtrapa fantasmas y resuelve rompecabezas para rescatar a Mario y sus amigos en el hotel El Gran Descanso Real\n\u2022\t\u00a1Cada piso en este hotel tiene un tema, desde la decoraci\u00f3n y los rompecabezas hasta los jefes! \n\u2022\tUtiliza las nuevas funciones de la Succionaentes GO-1000: ataca a los fantasmas con un aporreo, rompe sus defensas con la ventosa y repele a los grupos con el propulsor \n\u2022\tLuigi puede llamar y controlar a Gomiluigi, su doble de color verde, qui\u00e9n har\u00e1 todo lo que Luigi no puede lograr\n\u2022\tGomiluigi puede pasar por lugares estrechos, caminar por picos y ayudar a Luigi a superar obst\u00e1culos\n\u2022\tIntercambia entre Luigi y Gomiluigi en el modo para un solo jugador, o deja que un amigo juegue como Gomiluigi en el modo cooperativo para dos jugadores\n\u2022\tHasta 8 jugadores podr\u00e1n trabajar juntos para ascender la Torre del Horror a trav\u00e9s del modo cooperativo local y en l\u00ednea\n\u2022\tEs el equipo de Luigi contra el equipo de Gomiluigi en un minijuego de combate para determinar cu\u00e1l equipo tiene a los mejores cazadores de fantasmas\n\nEl contenido descargable de pago que llegar\u00e1 m\u00e1s adelante al juego Luigi\u2019s Mansion 3 ofrecer\u00e1 m\u00e1s contenido para el Parque de conmociones y la Torre del Horror.",
+        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\nIntenta derrotar a todos los fantasmas, rescatar a todos los toads y cumplir con los objetivos antes de que se acabe el tiempo\u2026 \u00a1en la Torre del Horror! Y para m\u00e1s locura de minijuegos compite en equipos en el Parque de Conmociones. Ya sea que explores el hotel con amigos o en solitario, ser\u00e1s absorbido por la m\u00fasica de ambiente y la espantosa decoraci\u00f3n de cada espeluznante esquina que explores. \u00bfPor qu\u00e9 no disfrutar de los panoramas y sonidos cinematogr\u00e1ficos con un amigo? En la aventura principal, t\u00fa y un amigo podr\u00e1n disfrutar juntos como Luigi y Gomiluigi en un juego cooperativo para dos. Gomiluigi puede caminar sobre picos, cruzar por lugares peque\u00f1os y puede ayudar a Luigi a superar los obst\u00e1culos que por s\u00ed solo no podr\u00eda superar. No est\u00e1 de m\u00e1s tener a un amigo en este hotel; tal vez no sea tan tenebroso, \u00a1pero Luigi no piensa lo mismo!\n\n\u2022\tAtrapa fantasmas y resuelve rompecabezas para rescatar a Mario y sus amigos en el hotel El Gran Descanso Real\n\u2022\t\u00a1Cada piso en este hotel tiene un tema, desde la decoraci\u00f3n y los rompecabezas hasta los jefes! \n\u2022\tUtiliza las nuevas funciones de la Succionaentes GO-1000: ataca a los fantasmas con un aporreo, rompe sus defensas con la ventosa y repele a los grupos con el propulsor \n\u2022\tLuigi puede llamar y controlar a Gomiluigi, su doble de color verde, qui\u00e9n har\u00e1 todo lo que Luigi no puede lograr\n\u2022\tGomiluigi puede pasar por lugares estrechos, caminar por picos y ayudar a Luigi a superar obst\u00e1culos\n\u2022\tIntercambia entre Luigi y Gomiluigi en el modo para un solo jugador, o deja que un amigo juegue como Gomiluigi en el modo cooperativo para dos jugadores\n\u2022\tHasta 8 jugadores podr\u00e1n trabajar juntos para ascender la Torre del Horror a trav\u00e9s del modo cooperativo local y en l\u00ednea\n\u2022\tEs el equipo de Luigi contra el equipo de Gomiluigi en un minijuego de combate para determinar cu\u00e1l equipo tiene a los mejores cazadores de fantasmas",
         "languages": [
             "ja",
             "en",
@@ -1100,7 +1148,7 @@
             "zh",
             "zh"
         ],
-        "size": 7674527744
+        "size": 7920943104
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -2556,7 +2604,7 @@
             "ru",
             "ko"
         ],
-        "size": 10106175488
+        "size": 10236198912
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3500,6 +3548,7 @@
             "de",
             "it",
             "ru",
+            "zh",
             "zh"
         ],
         "size": 26976714752
@@ -3834,16 +3883,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b4f49bc374dc9d8beeb030e5547d5ed9ff4918dd3097f66271059d5056ba745.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/46071c6274950e089053c6b279b6ceac09aa793d67071cd0a2c080bd781b1b5d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/77a57378e234c2582edaa0b1b058d9376590549936c9beeeb4872b1bfc8b162f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2bcdab6e056d24f962613ec15a07b15d1fd06e851de185431cf5e763286b7876.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/560b1d6bb3f9d1efbb3e4a36c71f099f0141884bc6bc6649a58ed33df3a15874.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fd7be9387abfdff4b6c214a0b1db64a52ac0c516c9ed3814ace4b14dbcf640b9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/536e74d092f3bb9c06a96260ecebf4ac4b2f88946cdd61a1ccdbfa8515d94389.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/18c7e686fa53a086a87b711eec405d324b7698db8050179ae39e6bd5778da66c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9dc39fbdacbf4306c7c62c399a6d384ca285a3160a526488cca4eebf7f8e61b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/619738d29212b3d77aed49327568e315f70a4ac61934c41359948c9fb09e74ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d1bfa0c245f752f26b4b1d3ead49e5a1cd40bd32ecc71d77d5fb1e7768e41c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fc55c379a1282070a2b9fdf422ca5e6e7d5a10ab91a2149e4e0eb1a28fa50e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d72432aeccf857f34ed78712d262e114a8fe7b9e6205bab082b47dfb636085d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2adb5c6b83a1fb8855588d09c003f27d1a5c77e2089d65bdd16d714ffa0e2f4a.jpg",
-        "intro": "Comanda un ej\u00e9rcito, personaliza los campos de batalla y desaf\u00eda a tus amigos, en este rico y detallado combate por turnos estilo retro!",
-        "description": "\u00a1L\u00e1nzate al campo de batalla con Wargroove, un juego de estrategia de hasta 4 jugadores! Elige a tu comandante y enfrenta facciones en un conflicto donde juegas por turnos. \n\nCuando la guerra se desata en el reino de Cherrystone, la joven reina Mercia se ve obligada a huir de su hogar. Perseguida por sus enemigos, la \u00fanica forma de salvar su pueblo es viajar a tierras nuevas en busca de aliados. \u00bfPero a qui\u00e9n se encontrar\u00e1 en su camino y que siniestros desaf\u00edos enfrentar\u00e1? Toma el mando de tus unidades, desde escuadrones de \u00e1giles arqueros hasta poderosos dragones que escupen fuego, todo en esta moderna perspectiva de juego de estrategia por turnos.\n\nCaracter\u00edsticas:\n> \u00a1Elige tu comandante! Los comandantes son el alma de Wargroove: una alineaci\u00f3n vibrante de m\u00e1s de 12 personajes, cada uno con una personalidad y motivaciones que los hace \u00fanicos. Decide a qui\u00e9n dar\u00e1s tu lealtad de entre las cuatro facciones en guerra: el reino de Gu\u00edndal, el imperio de Cantaria, la legi\u00f3n de Macabria y las tribus de plant\u00e1ridos.\n\n> Desaf\u00eda a tus amigos en los modos de escaramuzas multijugador en l\u00ednea y locales con la posibilidad de personalizar la reglas completamente, as\u00ed como juego cooperativo competitivo local y en l\u00ednea.\n\n> Dise\u00f1a y comparte en l\u00ednea tu propia serie de campos de batalla, con historias que se derivan de la principal usando los sencillos editores de la campa\u00f1a y los mapas dentro del juego.\n\n> Sigue la historia de la joven reina, una principiante sin experiencia, que se embarca en una misi\u00f3n contra ingenuas fuerzas en el modo campa\u00f1a, contada a trav\u00e9s de cinem\u00e1ticas de arte p\u00edxel y din\u00e1micas batallas.\n\n> Aprende m\u00e1s de cada personaje que encuentres a lo largo de una serie de estrepitosos enfrentamientos en el modo Arcade, donde luchar\u00e1s con 5 oponentes diferentes en r\u00e1pida sucesi\u00f3n.\n\n> Usa habilidades estrat\u00e9gicas y s\u00e9 m\u00e1s inteligente que tu enemigo en el modo Puzzle y completa complicados desaf\u00edos en un solo turno.\n\n> Busca contenido y desbloqueables ocultos dentro del juego: \u00a1como en la vieja escuela!",
+        "intro": "\u00a1Una perspectiva moderna a las t\u00e1cticas por turnos estilo retro!",
+        "description": "\u00a1L\u00e1nzate al campo de batalla con Wargroove, un juego de estrategia de hasta 4 jugadores! Elige a tu comandante y enfrenta facciones en un conflicto donde juegas por turnos. \n\nCaracter\u00edsticas:\n> \u00a1Elige tu comandante! Los comandantes son el alma de Wargroove: una alineaci\u00f3n vibrante de m\u00e1s de 12 personajes, cada uno con una personalidad y motivaciones que los hace \u00fanicos. Decide a qui\u00e9n dar\u00e1s tu lealtad de entre las cuatro facciones en guerra: el reino de Gu\u00edndal, el imperio de Cantaria, la legi\u00f3n de Macabria y las tribus de plant\u00e1ridos.\n\n> Desaf\u00eda a tus amigos en los modos de escaramuzas multijugador en l\u00ednea y locales con la posibilidad de personalizar la reglas completamente, as\u00ed como juego cooperativo competitivo local y en l\u00ednea.\n\n> Dise\u00f1a y comparte en l\u00ednea tu propia serie de campos de batalla, con historias que se derivan de la principal usando los sencillos editores de la campa\u00f1a y los mapas dentro del juego.\n\n> Sigue la historia de la joven reina, una principiante sin experiencia, que se embarca en una misi\u00f3n contra ingenuas fuerzas en el modo campa\u00f1a, contada a trav\u00e9s de cinem\u00e1ticas de arte p\u00edxel y din\u00e1micas batallas.\n\n> Usa habilidades estrat\u00e9gicas y s\u00e9 m\u00e1s inteligente que tu enemigo en el modo Puzzle y completa complicados desaf\u00edos en un solo turno.\n\n> Busca contenido y desbloqueables ocultos dentro del juego: \u00a1como en la vieja escuela!",
         "languages": [
             "ja",
             "pt",
@@ -5103,13 +5152,13 @@
             "https://img-eshop.cdn.nintendo.net/i/7280bb7aa8abadb25e2db4a8275468e29f2f14bd06c1b6056012297634857ec9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5c72d76d3c52ffc651cc3400d2a3ca7749561dd6b5efc47f32c1663f41c9bd60.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5ca6d7863ec26ab1f15a79e1a55757a4302705c47130d628e148d5e254628f4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1349a475e346451ee43fcf18a132dbeeaf0b81f0c8cd55244ba76ecd5fa2bfd.jpg",
         "intro": "\u00a1S\u00fabete a esta biciaventura para 1 o 2 jugadores llena de amistad, platos voladores, b\u00fasquedas de tesoros y una oca mascota!",
         "description": "Controla a Nessa y Demelza, quienes exploran una isla antigua junto con su oca mascota, Captain Honkers, y mejora sus bicicletas mientras buscan respuestas a distintos misterios.\n\nA medida que la historia avance, se enfrentar\u00e1n a peligros, acertijos y las fuerzas crecientes de una maldici\u00f3n ancestral con su colecci\u00f3n de platos voladores, globos de agua, desatascadores y una radiograbadora tan potente que podr\u00eda despertar a los muertos vivientes.\n \nJuntas, nuestras hero\u00ednas reir\u00e1n, aprender\u00e1n y llorar\u00e1n, pero \u00bfser\u00e1 suficiente el poder de su amistad para salvar la isla y a ellas mismas?",
         "languages": [
             "en"
         ],
-        "size": 3375366144
+        "size": 3629121536
     },
     "70010000020838": {
         "id": "010051800E922000",
@@ -5621,6 +5670,51 @@
         ],
         "size": 10982785024
     },
+    "70010000027023": {
+        "id": "0100DBF01000A000",
+        "rightsId": null,
+        "name": "Burnout\u2122 Paradise Remastered",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200619,
+        "nsuId": 70010000027023,
+        "category": [
+            "Carreras"
+        ],
+        "ratingContent": [
+            "Temas insinuantes moderados",
+            "Violencia moderada",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1d40d097ee8ef5638f53e4590655e4fe080df3268fc170fcf70ba05e35578294.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4239e16e7b1f02eb9bcaca7ea8cadc54906b2bac8a5ecd66edc382f6bc7cce6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95a67e43ff13aac53ea9606551a186bce0251aebed7bf3ba878cc3d97f189f13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b26c16b070c3fb8353620e37915d993c36d83cc446fe6df30c1167671b4bc22e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d90ff2ed7567e31f38bac2bcdb13e83f6a7b3103885226c30ea20cbf0d981048.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f759ac11f7d66638bda8637b8f661fc78e0a4f9c7646b985f22a80a9abf31a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/922c7640905cb805a5ffac12d44b87fe78faef616ed7d7659a0695b9af8b4150.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/de4b4864bc8e309a49cc4f5e6fb19874ad1b52186103dd367ac8cb2defc21952.jpg",
+        "intro": "El mundo de carreras definitivo ",
+        "description": "La franquicia tan exitosa de Burnout\u2122 llega a Nintendo Switch por primera vez.  \n\nDestaca por tus habilidades tras el volante y domina las calles abiertas de Paradise City en Burnout\u2122 Paradise Remastered.  Pon a prueba los l\u00edmites de habilidad y resistencia mientras sobrepasas los l\u00edmites de la velocidad.  Maneja por las fren\u00e9ticas avenidas del centro y las salvajes carreteras de monta\u00f1a.  Colisiona contra el tr\u00e1fico, destruye a tus rivales y usa la ciudad abierta para encontrar atajos.  Deja a tus amigos en el polvo y define tu ruta hacia la victoria o choca con un efecto espectacular y devastador.  \n\nIncluye 8 piezas de contenido adicional, con m\u00e1s de 130 veh\u00edculos, nuevas zonas para explorar como Big Surf Island y cientos de desaf\u00edos online, abraza acrobacias de alto octanaje y destrucci\u00f3n desenfrenada en uno de los mejores juegos de carreras arcade.  Totalmente optimizado para Nintendo Switch en 60 FPS, incluido el control de mapas t\u00e1ctil para facilitar la navegaci\u00f3n.  Burnout Paradise Remastered es el mundo de carreras definitivo para jugar con amigos o sobre la marcha.  \n\nCARACTER\u00cdSTICAS PRINCIPALES\n- EL MUNDO DE CARRERAS DEFINITIVO\nOlv\u00eddate de las reglas y \u00e1brete camino hacia la victoria, dejando un rastro de velocidad y destrucci\u00f3n por las calles.  Agarra el carro, empieza a dar vueltas y destroza el tr\u00e1fico.  Deja huella a tu paso y checa los destrozos que has causado por el retrovisor.  Compite duro y choca con m\u00e1s fuerza, destruyendo a tus amigos online o uniendo sus fuerzas en cientos de desaf\u00edos online.\n\n- LA EXPERIENCIA DE BURNOUT PARADISE DEFINITIVA\nBurnout Paradise Remastered incluye el juego original completo y los 8 DLC principales, incluyendo Big Surf Island, Motos de Burnout y el pack de Polic\u00edas y Ladrones.  Con nuevas ubicaciones, desaf\u00edos y m\u00e1s de 130 veh\u00edculos para explorar, desde hot rods hasta cl\u00e1sicos vintage, \u00a1listos para la competici\u00f3n y la destrucci\u00f3n!\n\n- GR\u00c1FICOS DE M\u00c1XIMA VELOCIDAD\nDisfruta las carreras de alto octanaje y las colisiones cinematogr\u00e1ficas en 60 FPS.  Totalmente optimizado para Nintendo Switch, Burnout Paradise Remastered ofrece texturas de alta resoluci\u00f3n y una amplia gama de mejoras t\u00e9cnicas para una mayor fidelidad visual y facilidad de juego, incluido el control de mapa t\u00e1ctil.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 4289724416
+    },
     "70010000027060": {
         "id": "01008B20022AA000",
         "rightsId": null,
@@ -6025,7 +6119,7 @@
     "70010000029711": {
         "id": "0100FF500E34A000",
         "rightsId": null,
-        "name": "Xenoblade Chronicles\u2122: Definitive Edition",
+        "name": "Xenoblade Chronicles\u2122 Definitive Edition",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -14105,21 +14199,21 @@
             "https://img-eshop.cdn.nintendo.net/i/a512a439edbbaebcf9eb053946221deb52ecb87c5488312b9412a151dba6295f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b9555e0c498173e30a89895e74f6b93184f7c2fe40938fde3a826b50d1b14e36.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f883daae1ba2fb0424814c25a41c21ab648a74fda52570799134eabb1827860.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9597670d7e2e2245011b4cc54983040568fa8e25a79a498b013ec9428d97dfc.jpg",
         "intro": "Asusta con estilo con los nuevos atuendos y minijuegos",
         "description": "Algo est\u00e1 merodeando los pasillos de la Torre del Horror, \u00a1\u00bfser\u00e1 Luigi disco?! Un atuendo inspirado en la \u00e9poca disco se une a los disfraces Momuigi y Caballero verde para la Torre del Horror en el paquete multijugador 1, que es el primero de dos paquetes multijugador para el juego Luigi\u2019s Mansion 3. Cada uno de estos fantabulosos atuendos incluyen un piso tem\u00e1tico y fantasmas que le combinan. Cuando no est\u00e9s escalando la Torre del Horror en estilo, \u00a1disfruta de los minijuegos Caza embustera, Noqueados y Caudal dorado para el Parque de Conmociones!",
         "languages": null,
-        "size": 135266304
+        "size": 134217728
     },
     "70050000018552": {
         "id": "0100DCA0064A7002",
         "rightsId": null,
-        "name": "Multiplayer Pack Part 2",
+        "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 2",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200731,
+        "releaseDate": 20200429,
         "nsuId": 70050000018552,
         "category": null,
         "ratingContent": [
@@ -14135,11 +14229,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00578e66b18e1ea962974ac9bfe85e9c2daefd5a7c5e010e37a59c3ea7b9cfc2.jpg",
-        "intro": null,
-        "description": "El verano de 2020 ver\u00e1 el terror\u00edfico final del contenido descargable multijugador de Luigi\u2019s Mansion 3, pero para descubrir qu\u00e9 sorpresas fantasmales te esperan en la segunda parte de este contenido descargable, deber\u00e1s esperar un poco m\u00e1s. ",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77f0ebb8fac5b40a66561db0a656bff52aaf23439283c63ae966fa5d84fe3489.jpg",
+        "intro": "Asusta en estilo con atuendos y minijuegos nuevos",
+        "description": "\u00a1M\u00e1s diversi\u00f3n se acerca a la Torre del Horror! \u00a1Pero esta vez, los trajes de Luigi bucanero, el asombroso Luigi y Paleontoluigi (s\u00ed, Paleontoluigi) est\u00e1n disponibles! Disfruta de la Torre del Horror y descubre los pisos y fantasmas tem\u00e1ticos que se basan en cada uno de estos espantabulosos pero estilizados trajes. El Parque de conmociones tambi\u00e9n recibir\u00e1 tres nuevas atracciones: Megahockey, Frenes\u00ed inflalible y Medidas desesperadas. ",
         "languages": null,
-        "size": 4194304
+        "size": 246415360
     },
     "70050000018560": {
         "id": "010051D00E3A5001",
@@ -15036,6 +15130,34 @@
         "languages": null,
         "size": 0
     },
+    "70070000001542": {
+        "id": null,
+        "rightsId": null,
+        "name": "Splatoon\u2122 2 and Splatoon\u2122 2: Octo Expansion Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200429,
+        "nsuId": 70070000001542,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Interacciones en linea no estan clasificadas por la ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e20fd839730440d53e48a567cc730fed3ea6277b416cb8e01b6d43e10f0a431.jpg",
+        "intro": "Entinta tu camino hacia la victoria",
+        "description": "Los ni\u00f1os calamar regresan para lanzar tinta y conquistar territorio en este colorido y ca\u00f3tico juego de disparos con combates de 4 contra 4. Ll\u00e9vate los combates territoriales adondequiera que vayas con la consola Nintendo Switch y usa las configuraciones port\u00e1tiles para combatir en el modo multijugador local. \u00a1Hasta puedes crear un equipo de cuatro en el modo cooperativo Salmon Run! Compra este paquete para obtener tanto el juego principal Splatoon 2 como el contenido descargable Octo Expansion.\n\nCon el contenido descargable obtendr\u00e1s acceso a una nueva aventura para un solo jugador que incluye 80 misiones. Jugar\u00e1s como Agente 8, un nuevo personaje que despierta en una oscura plataforma subterr\u00e1nea tras haber perdido la memoria. \u00c1brete camino en esta misteriosa instalaci\u00f3n subterr\u00e1nea y libra un combate feroz para llegar a la superficie de Crom\u00f3polis. \u00a1Escapa de este laberinto ubicado en las profundidades y, finalmente, \u00fanete las partidas multijugador* como octoling!\n\nEn los combates multijugador, elige el arma y la estrategia que mejor se adapten a tu estilo de juego. Podr\u00e1s usar el difusor dual o emplear los cl\u00e1sicos como el cargatintas o el rodillo, ahora con nuevos conjuntos que te permitir\u00e1n emplear nuevas estrategias. El combate territorial sigue siendo el modo preferido de los inklings, pero tambi\u00e9n disputan combates competitivos**, se enfrentan a los octarianos en el modo para un jugador, y hasta consiguen trabajos de tiempo medio combatiendo contra los salm\u00f3nidos. No importa cu\u00e1l sea tu modo favorito, podr\u00e1s entintarlo todo en casa o dondequiera que vayas con la consola Nintendo Switch. \n",
+        "languages": null,
+        "size": 8736735232
+    },
     "70070000002404": {
         "id": null,
         "rightsId": null,
@@ -15803,9 +15925,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc6f62846c58b36f88038a114242cf46236b2c095a29f73d40e8946402083f49.jpg",
         "intro": null,
-        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\n\u00a1La cacer\u00eda de fantasmas contin\u00faa hasta el 2020 con el paquete de contenido descargable multijugador de Luigi's Mansion\u2122 3! Este contenido descargable incluye escalofriantes pero a la vez encantadores atuendos que Luigi podr\u00e1 utilizar en el modo Torre del Horror y \u00a1temas que transformar\u00e1n la apariencia de los pisos de la torre! Mant\u00e9n tu linterna cerca, porque nuevas sorpresas podr\u00edan estar ocultas en los pasillos de esta macabra edificaci\u00f3n. Si t\u00fa y tus amigos no est\u00e1n aporreando o encandilando su camino por la Torre del Horror, los nuevos minijuegos de este contenido descargable brindar\u00e1n al Parque de Conmociones tenebrosas y amistosas competencias. Precompra ahora y recibe acceso a la primera y segunda parte del contenido descargable conforme se vayan lanzando, adem\u00e1s una linterna tipo E tenebrosamente tierna que estar\u00e1 lista para utilizarse de inmediato\u2026 \u00a1puede que un espectral amigo haga acto de presencia!",
+        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\n\u00a1La cacer\u00eda de fantasmas contin\u00faa hasta el 2020 con el paquete de contenido descargable multijugador de Luigi's Mansion\u2122 3! Este contenido descargable incluye escalofriantes pero a la vez encantadores atuendos que Luigi podr\u00e1 utilizar en el modo Torre del Horror y \u00a1temas que transformar\u00e1n la apariencia de los pisos de la torre! Mant\u00e9n tu linterna cerca, porque nuevas sorpresas podr\u00edan estar ocultas en los pasillos de esta macabra edificaci\u00f3n. Si t\u00fa y tus amigos no est\u00e1n aporreando o encandilando su camino por la Torre del Horror, los nuevos minijuegos de este contenido descargable brindar\u00e1n al Parque de Conmociones tenebrosas y amistosas competencias.",
         "languages": null,
-        "size": 7813988352
+        "size": 8301576192
     },
     "70070000009666": {
         "id": null,

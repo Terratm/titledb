@@ -910,6 +910,54 @@
         ],
         "size": 7163871232
     },
+    "70010000001487": {
+        "id": "0100EBA004726000",
+        "rightsId": null,
+        "name": "Huntdown",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200512,
+        "nsuId": 70010000001487,
+        "category": [
+            "Arcade",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Mild Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Coffee Stain",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/45a8b1eddd31adf553f184a979bce286ff5b36abf786a8becb06ed561563923a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6de7519c82c620c143096171ba48045d69995b5223bd868470f6aab30ceb16fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0210768f5b9f75200d4282c599e19f23fac4f29e7caf00e4392550948cea5d61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc41135fdfa077d04e401dce92efe56ac0b9e760d4fe58c92188aebbb317ff35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32cd62977c789ce3c7567b38ac3160090b7f18a6a2896be8c31e968f0bc74504.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c755216f8924c2e51d89aa30ff3a9cbc673eee21404cee61536f041c91c84097.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b07e6d89a72eeb358d9682123429e8c631c25c16e3d04c735cf8ba64f574db89.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e3f094fc15668a830179feda8be74a424af98e2601aae5ce00b80785c0bb97d.jpg",
+        "intro": "Crime doesn\u2019t pay \u2013 Unless you\u2019re a bounty hunter",
+        "description": "In the mayhem-filled streets of the future where criminal gangs rule and cops fear to tread, only the bounty hunters can free the city from the corrupt fist of felony. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.\n\nKey Features:\n\nHunt solo or give suppressive fire and advance on the enemy together in co-op as you run, jump, and take cover in the neon soaked, graffiti strewn 80s inspired cityscapes.\n\nHand painted 16-bit pixel art graphics and hand-drawn animations combined with fluid action-packed 60-FPS gameplay and an epic synthesized soundtrack.\n\nHuntdown everything from feral punks to organised hockey hooligans, this game is riddled with 16-bit bad guys and crime bosses, each with their own stomping ground to reclaim, and arsenal of weapons to confiscate.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 717225984
+    },
     "70010000001515": {
         "id": "010095300212A000",
         "rightsId": "010095300212A0000000000000000003",
@@ -1087,7 +1135,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d.jpg",
         "intro": "The hotel is haunted. Mario is missing. And our only hope is\u2026Luigi?!",
-        "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nSee if you can defeat all the ghosts, rescue all the toads, or clear other objectives before time runs out\u2026in the ScareScraper! And for more mini-game madness, compete on teams at the ScreamPark! Whether you play with friends or wander the hotel alone, you\u2019ll be sucked in by the atmospheric music and ghoulish d\u00e9cor of every cobwebby corner you explore. Why not take in the cinematic sights and sounds with a friend? In the main adventure, you and a friend can play together as Luigi and Gooigi in two-player co-op! Gooigi can walk on spikes, slip through tight spaces, and help Luigi overcome obstacles he can\u2019t tackle alone. Never hurts to have a friend in this hotel; it may not be very spooky, but Luigi begs to differ!\n\n\u2022\tCatch ghosts and solve puzzles to rescue Mario and friends in the Last Resort hotel\n\u2022\tEach floor of this towering hotel is themed, from the d\u00e9cor to the puzzles to boss!\n\u2022\tUtilize the functions of the all-new Poltergust G-00: Pummel ghosts with a Slam, break through defenses with the Suction Shot, and blow back groups with a Burst\n\u2022\tLuigi can call upon and control Gooigi, his all-green doppelganger, who can do what Luigi can\u2019t\n\u2022\tGooigi can slip through tight spaces, walk on spikes, and help Luigi overcome obstacles\n\u2022\tChange between Luigi and Gooigi in single player, or let a friend play as Gooigi for 2-player co-op\n\u2022\tUp to 8 players can work together to ascend the Scarescaper via local wireless or online\n\u2022\tIt\u2019s Team Luigi vs. Team Gooigi in a mini-game battle to see which is the ultimate team of ghost hunters\n\nPaid DLC will come to Luigi\u2019s Mansion 3 in the future, adding new content to the ScareScraper and ScreamPark!",
+        "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nSee if you can defeat all the ghosts, rescue all the toads, or clear other objectives before time runs out\u2026in the ScareScraper! And for more mini-game madness, compete on teams at the ScreamPark! Whether you play with friends or wander the hotel alone, you\u2019ll be sucked in by the atmospheric music and ghoulish d\u00e9cor of every cobwebby corner you explore. Why not take in the cinematic sights and sounds with a friend? In the main adventure, you and a friend can play together as Luigi and Gooigi in two-player co-op! Gooigi can walk on spikes, slip through tight spaces, and help Luigi overcome obstacles he can\u2019t tackle alone. Never hurts to have a friend in this hotel; it may not be very spooky, but Luigi begs to differ!\n\n\u2022\tCatch ghosts and solve puzzles to rescue Mario and friends in the Last Resort hotel\n\u2022\tEach floor of this towering hotel is themed, from the d\u00e9cor to the puzzles to boss!\n\u2022\tUtilize the functions of the all-new Poltergust G-00: Pummel ghosts with a Slam, break through defenses with the Suction Shot, and blow back groups with a Burst\n\u2022\tLuigi can call upon and control Gooigi, his all-green doppelganger, who can do what Luigi can\u2019t\n\u2022\tGooigi can slip through tight spaces, walk on spikes, and help Luigi overcome obstacles\n\u2022\tChange between Luigi and Gooigi in single player, or let a friend play as Gooigi for 2-player co-op\n\u2022\tUp to 8 players can work together to ascend the Scarescaper via local wireless or online\n\u2022\tIt\u2019s Team Luigi vs. Team Gooigi in a mini-game battle to see which is the ultimate team of ghost hunters",
         "languages": [
             "ja",
             "en",
@@ -1100,7 +1148,7 @@
             "zh",
             "zh"
         ],
-        "size": 7674527744
+        "size": 7920943104
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -2556,7 +2604,7 @@
             "ru",
             "ko"
         ],
-        "size": 10106175488
+        "size": 10236198912
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3500,6 +3548,7 @@
             "de",
             "it",
             "ru",
+            "zh",
             "zh"
         ],
         "size": 26976714752
@@ -3834,16 +3883,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b4f49bc374dc9d8beeb030e5547d5ed9ff4918dd3097f66271059d5056ba745.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/46071c6274950e089053c6b279b6ceac09aa793d67071cd0a2c080bd781b1b5d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/77a57378e234c2582edaa0b1b058d9376590549936c9beeeb4872b1bfc8b162f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2bcdab6e056d24f962613ec15a07b15d1fd06e851de185431cf5e763286b7876.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/560b1d6bb3f9d1efbb3e4a36c71f099f0141884bc6bc6649a58ed33df3a15874.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fd7be9387abfdff4b6c214a0b1db64a52ac0c516c9ed3814ace4b14dbcf640b9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/536e74d092f3bb9c06a96260ecebf4ac4b2f88946cdd61a1ccdbfa8515d94389.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/9948bdf561748b7b9818340b31e7b93352dcea532bab0bb8316b52e789e7bab1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3103d00d309714f62e5a8108ae987f15eb5dd85f3f85af971cdf56d08b185a81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f391d143a84ecff85e981c90b0d7c478e1acb6c244c0648f8043ec1091ab7ce2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a6c96bf7f2c4703e2d4bc4ebd350ecc99fc1a4c49bbfe5f9bd4f364fe2623cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f436592f01875972dd81083712fa65da0af19600ca8ce7ac6339ec190d3e5257.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9599fe1adbe15ed162aef755bd672cd3ce8f4b8247ead2c8156fc22c7e722481.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2adb5c6b83a1fb8855588d09c003f27d1a5c77e2089d65bdd16d714ffa0e2f4a.jpg",
-        "intro": "Command an army, customize battlefields, and challenge your friends, in this richly detailed return to retro turn-based combat!",
-        "description": "Take to the battlefield with Wargroove, a turn-based strategy game for up to 4 players! Choose your Commander and wage war on battling factions, using your \u2018groove\u2019 to strategically sway the fight in your favor! \n\nWhen war breaks out in the Kingdom of Cherrystone, the young Queen Mercia must flee her home. Pursued by her foes, the only way to save her kingdom is travel to new lands in search of allies. But who will she meet along the way, and what sinister challenges will she face? \n\nFeatures:\n> Choose your Commander - a vibrant cast of 12+ characters, each with their own distinct personalities and motivations. Decide your allegiance to one of four warring factions; the Cherrystone Kingdom, Heavensong Empire, Felheim Legion, and Floran Tribes.\n\n> Challenge your friends to local and online multiplayer skirmish modes with complete rule customization, as well as local and online competitive and co-op play.\n\n> Design and share online your own complex series of battlefields, with branching story paths using easy to master in-game map and campaign editors.\n\n> Follow the story of a fresh-faced and inexperienced young Queen on a quest against unworldly forces in Campaign mode, told through animated pixel art cut-scenes and dynamic battles.\n\n> Learn more about each character you encounter through a trial of boisterous bouts in Arcade mode, fighting 5 different opponents in quick succession.\n\n> Outwit the enemy in Puzzle mode, using your strategic skills to complete tricky challenges in just ONE turn.\n\n> Seek out hidden in-game content and unlockables - old school style!",
+        "intro": "A modern return to retro turn-based tactics!",
+        "description": "Take to the battlefield with Wargroove, a turn-based strategy game for up to 4 players! Choose your Commander and wage war on battling factions, using your \u2018groove\u2019 to strategically sway the fight in your favour! \n\nFeatures:\n\u2022 Choose your Commander - a vibrant cast of 12+ characters, each with their own distinct personalities and motivations. \n\n\u2022 Challenge your friends online - Send your units to victory in both local and online multiplayer skirmish battles, with competitive and co-op play, as well as complete rule customisation.\n\n\u2022 Create your own adventure - Design and share online your own complex series of battlefields, with branching story paths using easy to master in-game map and campaign editors.\n\n\u2022 Save the Kingdom - Follow the story of a fresh-faced and inexperienced young Queen on a quest against unworldly forces in Campaign mode, told through animated pixel art cut-scenes and dynamic battles.\n\n\u2022 Quick-fire clashes - Learn more about each character you encounter through a trial of boisterous bouts in Arcade mode, fighting 5 different opponents in quick succession.\n\n\u2022 Solve perplexing puzzles - Outwit the enemy in Puzzle mode, using your strategic skills to complete tricky challenges in just ONE turn.\n\n\u2022 Secrets to discover... - Seek out hidden in-game content and unlockables - old school style!",
         "languages": [
             "ja",
             "pt",
@@ -5103,13 +5152,13 @@
             "https://img-eshop.cdn.nintendo.net/i/7280bb7aa8abadb25e2db4a8275468e29f2f14bd06c1b6056012297634857ec9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5c72d76d3c52ffc651cc3400d2a3ca7749561dd6b5efc47f32c1663f41c9bd60.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5ca6d7863ec26ab1f15a79e1a55757a4302705c47130d628e148d5e254628f4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1349a475e346451ee43fcf18a132dbeeaf0b81f0c8cd55244ba76ecd5fa2bfd.jpg",
         "intro": "Saddle up for a bike-riding, friendship-building, frisbee-throwing, goose-petting, treasure-hunting adventure for 1 or 2 players!",
         "description": "You\u2019ll play as Nessa & Demelza as they explore an ancient island with their pet goose Captain Honkers, riding and upgrading their bikes on a quest for answers.\n\nAs the story unfolds they\u2019ll face hazards, puzzles, and the gathering forces of an ancient curse with their growing collection of frisbees, water-balloons, toilet-plungers, and a boom-box loud enough to wake the undead.\n \nTogether our heroines will laugh, learn, and cry - but will the power of their friendship be enough to actually save the island AND each other?",
         "languages": [
             "en"
         ],
-        "size": 3375366144
+        "size": 3629121536
     },
     "70010000020838": {
         "id": "010051800E922000",
@@ -5621,6 +5670,51 @@
         ],
         "size": 10982785024
     },
+    "70010000027023": {
+        "id": "0100DBF01000A000",
+        "rightsId": null,
+        "name": "Burnout\u2122 Paradise Remastered",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200619,
+        "nsuId": 70010000027023,
+        "category": [
+            "Racing"
+        ],
+        "ratingContent": [
+            "Mild Suggestive Themes",
+            "Mild Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1d40d097ee8ef5638f53e4590655e4fe080df3268fc170fcf70ba05e35578294.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4239e16e7b1f02eb9bcaca7ea8cadc54906b2bac8a5ecd66edc382f6bc7cce6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95a67e43ff13aac53ea9606551a186bce0251aebed7bf3ba878cc3d97f189f13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b26c16b070c3fb8353620e37915d993c36d83cc446fe6df30c1167671b4bc22e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d90ff2ed7567e31f38bac2bcdb13e83f6a7b3103885226c30ea20cbf0d981048.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f759ac11f7d66638bda8637b8f661fc78e0a4f9c7646b985f22a80a9abf31a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/922c7640905cb805a5ffac12d44b87fe78faef616ed7d7659a0695b9af8b4150.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/de4b4864bc8e309a49cc4f5e6fb19874ad1b52186103dd367ac8cb2defc21952.jpg",
+        "intro": "The ultimate driving playground ",
+        "description": "The multi-million selling Burnout\u2122 franchise races onto Nintendo Switch for the first time ever.  \n\nMake action your middle name as you rule the open streets of Paradise City, in Burnout\u2122 Paradise Remastered.  Test the limits of skill and endurance as you push the boundaries of speed itself.  Hurtle through hectic downtown avenues to wild mountain roads.  Smash through traffic, wreck your opponents, and use the open city to find shortcuts.  Leave your friends in the dust and define your route to victory \u2013 or crash out in spectacular and devastating effect.  \n\nPacked with 8 pieces of extra content, with 130+ vehicles, new areas to explore such as Big Surf Island, and hundreds of online challenges, embrace high-octane stunts and wanton destruction in one of the greatest arcade racers.  Fully optimized for the Nintendo Switch in 60 FPS, including pinch-and-pull map control for ease of navigation.  Burnout Paradise Remastered is the ultimate driving playground to play with friends or on-the-go.  \n\nKEY FEATURES\n- THE ULTIMATE DRIVING PLAYGROUND\nThrow out that driver\u2019s handbook and blaze your own path to victory, leaving a trail of speed and destruction across the streets.  Send your car launching, spinning, and smashing through traffic.  Leave a very expensive trail of wreckage in your rearview.  Race hard and crash harder, wrecking your friends online, or joining forces in hundreds of online challenges\n\n- THE DEFINITIVE BURNOUT PARADISE EXPERIENCE\nBurnout Paradise Remastered delivers the complete original game and 8 main DLC packs, including Big Surf Island, Burnout Bikes, and the Cops and Robbers pack.  With new locations, challenges, and 130+ vehicles to explore, from hot rods to vintage classics \u2013 ready to race and ready to wreck!\n\n- FULL-THROTTLE GRAPHICS\nExperience high-octane races and cinematic crashes in glorious 60 FPS.  Fully optimized for the Nintendo Switch, Burnout Paradise Remastered delivers high resolution textures and a range of technical enhancements for greater visual fidelity and ease-of-play, including pinch-and-pull map control",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 4289724416
+    },
     "70010000027060": {
         "id": "01008B20022AA000",
         "rightsId": null,
@@ -6025,7 +6119,7 @@
     "70010000029711": {
         "id": "0100FF500E34A000",
         "rightsId": null,
-        "name": "Xenoblade Chronicles\u2122: Definitive Edition",
+        "name": "Xenoblade Chronicles\u2122 Definitive Edition",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -14105,21 +14199,21 @@
             "https://img-eshop.cdn.nintendo.net/i/a512a439edbbaebcf9eb053946221deb52ecb87c5488312b9412a151dba6295f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b9555e0c498173e30a89895e74f6b93184f7c2fe40938fde3a826b50d1b14e36.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f883daae1ba2fb0424814c25a41c21ab648a74fda52570799134eabb1827860.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a9597670d7e2e2245011b4cc54983040568fa8e25a79a498b013ec9428d97dfc.jpg",
         "intro": "Scare in Style with New Outfits and Minigames",
         "description": "Something\u2019s lurking in the halls of the ScareScraper, it\u2019s\u2026Groovigi!? A disco-themed outfit for ScareScraper is joined by the Mummigi and The Green Knight costumes in the Luigi\u2019s Mansion 3 Multiplayer Pack 1, which is the first of two packs in the Luigi\u2019s Mansion 3 Multiplayer Pack DLC. Each of these frighteningly fabulous costumes also comes with a matching Floor Theme and themed ghosts. When you aren\u2019t scaling the ScareScraper in style, go head-to-head in the new Tricky Ghost Brawl, Dodge Brawl, and River Bank minigames for ScreamPark!",
         "languages": null,
-        "size": 135266304
+        "size": 134217728
     },
     "70050000018552": {
         "id": "0100DCA0064A7002",
         "rightsId": null,
-        "name": "Multiplayer Pack Part 2",
+        "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 2",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200731,
+        "releaseDate": 20200429,
         "nsuId": 70050000018552,
         "category": null,
         "ratingContent": [
@@ -14135,11 +14229,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00578e66b18e1ea962974ac9bfe85e9c2daefd5a7c5e010e37a59c3ea7b9cfc2.jpg",
-        "intro": null,
-        "description": "Summer 2020 sees the chilling conclusion to the Luigi\u2019s Mansion 3 Multiplayer Pack, but you have to wait a little longer to find out what spectral surprises are lurking in Part 2 of this DLC. ",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77f0ebb8fac5b40a66561db0a656bff52aaf23439283c63ae966fa5d84fe3489.jpg",
+        "intro": "Scare in Style with New Outfits and Minigames",
+        "description": "Even more flashy fun is coming to the ScareScraper! This time, Cap\u2019n Weegee, The Amazing Luigi, and Paleontoluigist (yes, Paleontoluigist) costumes are available! Play ScareScraper to see the matching floor themes and themed ghosts based on each of these spooky-yet-stylish costumes. ScreamPark is also getting three new attractions\u2014PuckStravaganza, Floaty Frenzy, and Desperate Measures.",
         "languages": null,
-        "size": 4194304
+        "size": 246415360
     },
     "70050000018560": {
         "id": "010051D00E3A5001",
@@ -15036,6 +15130,34 @@
         "languages": null,
         "size": 0
     },
+    "70070000001542": {
+        "id": null,
+        "rightsId": null,
+        "name": "Splatoon\u2122 2 and Splatoon\u2122 2: Octo Expansion Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200429,
+        "nsuId": 70070000001542,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e20fd839730440d53e48a567cc730fed3ea6277b416cb8e01b6d43e10f0a431.jpg",
+        "intro": null,
+        "description": "The squid kids called Inklings are back to splat more ink and claim more turf in this colorful and chaotic 4-on-4* action shooter. Take Turf War battles on-the-go with the Nintendo Switch\u2122 system, and use any of the console\u2019s portable play styles for intense local multiplayer* action. Even team up for 4-player co-op fun in Salmon Run! Purchase this bundle to own both Splatoon 2 and the large-scale Octo Expansion DLC.  \n\nWith Octo Expansion, you\u2019ll gain access to a new single-player adventure spanning 80 missions. Playing the role of Agent 8, a character who awakens without her memories on a dark subway platform, you\u2019ll navigate a mysterious underground test facility in a desperate battle to reach the surface of Inkopolis. Escape from these twisted depths, and you\u2019ll finally be able to join multiplayer* matches as an Octoling!\n\nIn multiplayer battles, choose a weapon and strategy that fits your play style. You can dual wield the Splat Dualies or stick to mainstays like chargers and rollers, which have been remixed with additional strategic possibilities. As always, Turf War is the favored sport among Inklings, but they also dig ranked battles**, taking down Octarians in a robust single-player campaign, and battling enemy Salmonids in one dangerous part-time job! No matter which way you play, splat at home or on-the-go with Nintendo Switch. Staying fresh never felt so good.",
+        "languages": null,
+        "size": 8736735232
+    },
     "70070000002404": {
         "id": null,
         "rightsId": null,
@@ -15803,9 +15925,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc6f62846c58b36f88038a114242cf46236b2c095a29f73d40e8946402083f49.jpg",
         "intro": null,
-        "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nThe ghost hunt continues into 2020 with the Luigi's Mansion\u2122 3 Multiplayer Pack DLC! This DLC adds chilling-yet-charming costumes that Luigi can sport in the ScareScraper mode and matching themes that transform the look of the tower\u2019s floors! Keep your flashlight close, because new surprises might even be found lurking the halls of this ghoulish gauntlet! When you and your friends aren\u2019t slamming and strobing your way through the ScareScraper, the new minigames this DLC brings to ScreamPark can make for some frightening\u2026er, friendly competition. Pre-purchase now to get access to both Part 1 and Part 2 of the DLC as they are release, plus an adorably spooky Flashlight Type-P that you can use in the game right away\u2026a certain spectral sidekick may even make an appearance!",
+        "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nThe ghost hunt continues into 2020 with the Luigi's Mansion\u2122 3 Multiplayer Pack DLC! This DLC adds chilling-yet-charming costumes that Luigi can sport in the ScareScraper mode and matching themes that transform the look of the tower\u2019s floors! Keep your flashlight close, because new surprises might even be found lurking the halls of this ghoulish gauntlet! When you and your friends aren\u2019t slamming and strobing your way through the ScareScraper, the new minigames this DLC brings to ScreamPark can make for some frightening\u2026er, friendly competition.",
         "languages": null,
-        "size": 7813988352
+        "size": 8301576192
     },
     "70070000009666": {
         "id": null,
