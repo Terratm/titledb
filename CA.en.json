@@ -42,6 +42,57 @@
         ],
         "size": 1845493760
     },
+    "70010000017658": {
+        "id": "0100AD30095A4000",
+        "rightsId": null,
+        "name": "Atomicrops",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200528,
+        "nsuId": 70010000017658,
+        "category": [
+            "Action",
+            "Strategy",
+            "Simulation",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Raw Fury",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/befcd492ff994f875162c822232cd318a6ddbaae358a67d5820459d5304a019d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8515f0f0958ae1868d74b795cecf013ac290b83f9e62ebe7a1d18b5d366dd5b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5222d7fa45506438ad9bb1806a8cfa824ca9a18fbc411f5199737f58a8b242b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2eb61058c79b459cf9d687daf33f7e63e393c9ad754a8cac1cde0e9d02fd33e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e9faab825d6400a98a20be2cc5adbc833865b436bec2a8d4c23d192bd20cb52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5517ed84380e18a6ae0d7087d600ff093c44c0596728be35163e281a2477b0d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ccf1ac6385d35cb3961f22fc197f549c467ce6ba033b4c6a4bb08a8aa987fa7c.jpg",
+        "intro": "Farm. Marry. Kill.",
+        "description": "You own the last farm in the post-apocalypse wasteland, inherited from your late grandfather\u2019s will mere moments before the surrounding countryside gets vaporized in a nuclear blast. Now as the only source of food for the local town, and constantly under threat from the local mutant wildlife, you do as any self-respecting farmer would: Farm. Marry. Kill.\n\nAtomicrops is an action roguelite farming simulator. Armed with your hoe, a watering pail, and a fully automatic weapon, you must grow ultra-GMO crops to feed the local town\u2026 and make a hefty profit. Defend your land from the mutant pests and bandits that invade nightly to ravage your fields. Court and wed townsfolk to fight and farm by your side. Gather upgrades to increase yields, profit and power. Befriend the local wildlife to help with the chores.\n\nKEY FEATURES\n\nFARM. Grow mutant crops and reap a bountiful harvest to sustain humanity\u2026 and make a huge profit.\n\nMARRY. Woo and marry a kindred spirit from the local town to fight and farm alongside you.\n\nKILL. Fight bizarre post-nuclear pests starving for a piece of your crops at night. Hunt and forage in dangerous surrounding biomes for seeds and loot during the day. Turn your enemies into fertilizer to increase your crops quality.\n\nUPGRADE. Explore the far reaches of the biomes to find useful relics of farms long past. Discover rusty farm equipment, antique gardening tools, and tomes of how-to garden guides to increase your farming power. Spend your money in town to upgrade your gun and abilities. Permanently upgrade your farm house for bonuses that persist across playthroughs.\n\nBEFRIEND. Recruit an entourage of pig pals, chicken chums and cow colleagues to automate farming tasks. Cultivating atomicrops is a tough job, you'll need all the help you can get.\n\nCOMPETE. Advance through the more challenging years to unlock score multipliers and secure your place among the leaderboards of champion farmers.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 998244352
+    },
     "70010000018570": {
         "id": null,
         "rightsId": null,
@@ -498,6 +549,47 @@
             "ko"
         ],
         "size": 0
+    },
+    "70010000021404": {
+        "id": "010005400EC0C000",
+        "rightsId": null,
+        "name": "Lost Artifacts: Time Machine",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200521,
+        "nsuId": 70010000021404,
+        "category": [
+            "Strategy",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "8Floor Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0bcacfb2a10c30a36b8479ff03cba4e926c328b0fb9deb8befcac14e79b365c7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d5da60abecdbc275b45fd78ba1edcc2c40d6e73b7f87e7becd99079452b3e870.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7acd8e2e499f079e882b4a7f1fcf8536ba79f19258481bef97691e1d27dac34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ba3b790044085c933b5bc6d4acd3595d8c71fb60e1d5d002eaca332bf2cad11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c91a0d3381777a1722714f5c03a3b1f50435ee666b1860216b3e4a1acf471ebe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56b150a74c2f2b352c1929a07db01398bec6cb615c946b122905de8f0ebaac66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5817ebcdace4e3c50895ca2771bdf4a2eb78b1e281b3157fa589915d62e32528.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f591fb6450f2c2f32a95d6ac840d7c377d9b8f85671d417550a6ef29c4b302ed.jpg",
+        "intro": "Lost Artifacts: Time Machine is an exciting strategy game about time traveling. Fix time paradoxes!\n",
+        "description": "\"A mysterious villain is using a time machine to destroy everything in his path. He wants to return the Priest, the King of Atlantis and the Ancient Emperor so he can use them to create a new world order! Claire and her friends must find out who the villain is and stop him and all his minions.\nHurry, let's go on a journey!\n\nGo on a journey across a world full of extinct creatures and fantastic technologies in the exciting casual strategy Lost Artifacts.\nMany varied quests, over 50 levels, a fun storyline, simple and exciting gameplay, and a fantasy world \u2013 all this awaits you right now! Create portals, restore epic buildings, seek out extinct animals, overcome challenges and manage resources. Simple controls and a clear tutorial will help you easily learn the basics of the game.\nLost Artifacts \u2013 Fix time paradoxes!!\"\n",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 620756992
     },
     "70010000021876": {
         "id": "0100C6000EEA8000",
@@ -1579,6 +1671,48 @@
         ],
         "size": 656408576
     },
+    "70010000027435": {
+        "id": "01008D4010C46000",
+        "rightsId": null,
+        "name": "Fluxteria",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200521,
+        "nsuId": 70010000027435,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Playstige Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/70223cc8cca1ee61ae8dae902f78df7708fb4b35f7cc8bbabaa3d98480b1dd0a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4a36e5a0153d53cad539eed79b0a3b0049b081142f02a438489d49cb14c4db6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2b686e98404acb4fa00d3af4cf44f5d76f34a18c9f641219fb855567f84234b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3007002bb7bbd0a628a434102f9f5e1ef418e45be2c25892076813d3109a219.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b22721291c96d5bf588d7be7fd187f2bdcf96976435dc827a5b6652e1792f125.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25e09ed200635f7c292c9daedb813ddefaf55be4dde3f955638af2c17d61db48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77106201a94d8690f7f161adc57627c91cc3851c0d50ee335c8c47fac399a689.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/480afc48c50f7ab19a2002cce18e29d9486b196c24dc679b69f71aca7d92ceda.jpg",
+        "intro": "Blasting through infinite void\u2026",
+        "description": "Welcome to Fluxteria, non-stop arcade-space-shooting action in full 3D.\nFour modes of play: Story Mode, Survival Mode, Timed-Attack Mode and Obstacle Race Mode.\n14 different types of Enemies.\n20 different levels in beautifully stylized science-fiction setting.\nCrystal-Clear shooting and blasting sound effects.\nHearth-thumbing music.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 993001472
+    },
     "70010000027773": {
         "id": "0100829010F4A000",
         "rightsId": null,
@@ -1658,6 +1792,51 @@
             "en"
         ],
         "size": 153092096
+    },
+    "70010000028173": {
+        "id": "0100971011224000",
+        "rightsId": null,
+        "name": "Concept Destruction",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200522,
+        "nsuId": 70010000028173,
+        "category": [
+            "Arcade",
+            "Action",
+            "Racing"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2a4c3ad639ba458cd548bb7405b389a0a65b670ae2c5dd9fbe6732e9f9ef55a9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aa0bbcf6848037b7983edc00aacfe81fc7a1dbf93478dfd0dda756b9fe6246c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/676faabbf366aca70a38b3485defb604eacd13611155879b0579307757dc6f92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7da579a38e9459ef465083685a7faa59d265b602e2ead8dcb24175b7d2e333cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d961ac87ed62e57750423a3b3293b1438309c169d748851bf06cb8d7e27828c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4293fce2bf66c76593b137f8e36f5294c2ddf91104bf48ca4ded0cf104fc27bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30e83f0a75ccd51ad1cb9d76bdca0bfc72f5d01b8c54225dfdfd544e85ebd57d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1334a0518d081dc1c8dc6c53d205efebe0d23e087486add4b90cfa510286ffed.jpg",
+        "intro": "Will your car survive the destruction?",
+        "description": "Concept Destruction is all about driving miniature cars made of cardboard, and crashing them into each other to earn points by destroying them! \n\nPick from several different modes that suits your playstyle. Pick championship mode if you want to fight your way through mass production or choose survival mode to see how long you can survive a wave of deadly cardboard automobiles!\n\nUnlock new cars with points earned by playing. Each car has a unique driving style that could turn the tide of battle!\n\nFeatures:\n * Crash destructible cardboard cars, each with a unique driving style\n * Pick from 4 different modes to bring total deconstruction\n * Experience unique 3D cardboard car designs\n * Customize how you play!\n * Listen to a heavy metal soundtrack while bashing cars",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 318767104
     },
     "70010000028226": {
         "id": null,
@@ -2257,6 +2436,45 @@
             "zh"
         ],
         "size": 2184183808
+    },
+    "70010000029893": {
+        "id": "01003DB011AE8000",
+        "rightsId": null,
+        "name": "#womenUp, Super Puzzles Dream",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200530,
+        "nsuId": 70010000029893,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Multiplayer",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "JORGE BIEDMA AZUAR",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4588315c76180f2b5d7b00d59e202c6e02b3e5a25e9131631a060a1abc5ef87.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d9e1042c9117b411db5cc59a69908033d330ad258a7bd25b15da67b001e56989.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf56cc2420528f5c396d6c30dd73ee0703f6b86718a416ea27dad18558807353.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5a9c9ba64cc7a734f0bf9aa972caa0edf41b895910350b849d97fa5c906fb00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d153e9249cd596fe1380e7f4f11cc5b54bb693f56c8d499abeb2f3c2f074b3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca572260a158d2d2b6bf881c2f6fbcace5af1635465e2e740baa3d77b631513c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1573e3d5db4772870b706788cdec0ac43cb683676eadfee986beed2795665301.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/152d09ff9a37a0e4c027a714bdbfa020df4b54418793ca1be6376d70b8562908.jpg",
+        "intro": "\u00ab Super Puzzles Dream \u00bb - hours of fun!",
+        "description": "Puzzles move onto the next level with \u2018Super Puzzle Dream\u2019, a mix between classic puzzles and a \u2018Tetris\u2019-style dynamic mechanic.\n\n #womenUp! is the 'hashtag' for this programme, which dedicates beautiful illustrations and emotive phrases to women on completion of every puzzle.\n\n Two levels of play, 'senior' (for adults) and 'junior' (for children aged 3+), guarantee hours of entertainment for all.\n\n Become an expert and finish the puzzles in the shortest possible time and you will find yourself amongst the best in the world on the online leaderboard.\n\n You can also play with friends and family in the one-on-one split-screen competition mode. Your rival won't make it easy for you! Don't give up - fill an energy bar to perform a counterattack and put them in their place.\n\n Get the 3 stars in the 25 puzzles with 7 difficulties each. This gives the game great replayability..  \n\nRemember, without fun there is no \u00ab Super Puzzles Dream \u00bb\n",
+        "languages": [
+            "en"
+        ],
+        "size": 726663168
     },
     "70030000010397": {
         "id": null,
