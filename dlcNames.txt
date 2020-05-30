@@ -378,6 +378,20 @@ id|name
 01002C000B55308F|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack Vol. 4
 01002C000B553089|Taiko no Tatsujin: Drum 'n' Fun! WEATHERING WITH YOU Anime Songs Pack
 01002C000B55308A|Taiko no Tatsujin: Drum 'n' Fun! WEATHERING WITH YOU Anime Songs Pack
+01002C000B5530A0|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 4
+01002C000B5530A1|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 4
+01002C000B553097|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 3
+01002C000B553098|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 3
+01002C000B55309B|Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -X-
+01002C000B55309C|Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -X-
+01002C000B55309D|Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -X-
+01002C000B55309E|Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -X-
+01002C000B553092|Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack
+01002C000B553093|Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack
+01002C000B553094|Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack
+01002C000B553095|Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack
+01002C000B5530A3|Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol.3
+01002C000B5530A4|Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol.3
 010026800E305064|「早期購入４大特典」
 010026800E305143|「早期購入４大特典」
 0100D9A005ED707C|ドンだーパック -氷月-
@@ -396,3 +410,51 @@ id|name
 0100D9A005ED708D|ボーカロイド™曲パックVol.4
 0100D9A005ED708E|ボーカロイド™曲パックVol.4
 0100D9A005ED708F|ボーカロイド™曲パックVol.4
+0100BAB00E8C1004|Langrisser I & II - Legacy BGM Pack
+0100BAB00E8C1005|Langrisser I & II - Legacy BGM Pack
+0100BAB00E8C1006|Langrisser I & II - Legacy BGM Pack
+0100F0300F949017|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F949018|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F949019|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901A|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901B|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901C|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901D|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901E|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+0100F0300F94901F|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 2
+0100F0300F949020|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 2
+0100F0300F949021|「絕體絕命都市4 Plus -夏日回憶-」追加服裝組 1
+01007FA00FA0D006|早期購買特典
+01007FA00FA0D007|早期購買特典
+01007FA00FA0D008|早期購買特典
+01007FA00FA0D009|早期購買特典
+01007FA00FA0D00A|早期購買特典
+01007FA00FA0D00B|早期購買特典
+01007FA00FA0D00C|早期購買特典
+01007FA00FA0D00D|早期購買特典
+0100D9A005ED7077|ニンジャボックスパック
+0100D9A005ED7097|ポップスパックVol.3
+0100D9A005ED7098|ポップスパックVol.3
+0100D9A005ED709B|ドンだーパック -Ｘ-
+0100D9A005ED709C|ドンだーパック -Ｘ-
+0100D9A005ED709D|ドンだーパック -Ｘ-
+0100D9A005ED709E|ドンだーパック -Ｘ-
+0100D9A005ED70A0|ポップスパックVol.4
+0100D9A005ED70A1|ポップスパックVol.4
+0100D9A005ED70A2|ポップスパックVol.4
+0100D9A005ED70A3|東方ProjectアレンジパックVol.3
+0100D9A005ED70A4|東方ProjectアレンジパックVol.3
+0100D9A005ED70A5|東方ProjectアレンジパックVol.3
+0100D9A005ED7092|深夜アニメパック
+0100D9A005ED7093|深夜アニメパック
+0100D9A005ED7094|深夜アニメパック
+0100D9A005ED7095|深夜アニメパック
+010020100CF63003|首批購入特典
+010011100DBF3007|早期購入特典
+010011100DBF3008|早期購入特典
+010011100DBF3009|早期購入特典
+010011100DBF3013|ねじれちゃんセット
+010011100DBF3015|ケロケロセット
+010011100DBF300A|早期購入特典
+010011100DBF300B|早期購入特典
+010011100DBF300C|早期購入特典
