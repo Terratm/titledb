@@ -28,14 +28,12 @@ id|name
 01005EA00A57E000|Golf Story
 01004D800DC16000|GUNBARICH for Nintendo Switch
 0100F0700DECC000|Horizon Chase Turbo
+01001BD010D3C000|Little Town Hero
+0100B6F010E44000|Little Town Hero
 0100D5000B988000|Mercenaries Saga Chronicles
 0100B7F00BB54000|Mutant Mudds Collection
 010078000CB8E000|Neo ATLAS 1469
 0100D2201001E000|New Super Lucky's Tale
-0100C4B0034B2000|Nintendo Labo Toy-Con 01: Variety Kit
-01009AB0034E0000|Nintendo Labo Toy-Con 02: Robot Kit
-01001E9003502000|Nintendo Labo Toy-Con 03: Vehicle Kit
-0100165003504000|Nintendo Labo Toy-Con 04: VR Kit
 010081900C0F0000|OPUS Collection
 01004A200BE82000|OPUS Collection 地球計画+魂の架け橋
 0100E570094E8000|Owlboy
@@ -47,6 +45,9 @@ id|name
 010051000BEF2000|PixelJunk Monsters 2
 01002ED00725A000|Poi: Explorer Edition
 010086F0064CE000|Poi: Explorer Edition
+0100775008C5A000|Pokémon Shield
+01002E5008C56000|Pokémon Sword
+0100E64010BAA000|realMyst: Masterpiece Edition
 01001F100E8AE000|Remothered Tormented Fathers
 0100069000078000|Retail Interactive Display Menu
 01002FF008C24000|Ring Fit Adventure
