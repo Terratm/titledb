@@ -4787,7 +4787,7 @@
             "ru",
             "ko"
         ],
-        "size": 12054429696
+        "size": 12127830016
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5889,13 +5889,10 @@
             "Action"
         ],
         "ratingContent": [
-            "Blood and Gore",
+            "Blood",
             "Intense Violence",
-            "Nudity",
-            "Sexual Content",
-            "Simulated Gambling",
-            "Strong Language",
-            "Use of Drugs and Alcohol"
+            "Sexual Themes",
+            "Strong Language"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -6215,7 +6212,7 @@
             "pt",
             "ru"
         ],
-        "size": 1430257664
+        "size": 1383071744
     },
     "70010000027329": {
         "id": null,
@@ -6655,7 +6652,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6.jpg",
         "intro": "Discover and play 51 tabletop games from around the world!",
-        "description": "Play and discover 51 board games, tabletop games, and more all in one package\u2014Clubhouse GamesTM: 51 Worldwide Classics. This diverse collection includes games from all over the world across multiple genres, from familiar favorites like Chess to international hits like Mancala that have been around for 100s of years!\n\nEnjoy familiar favorites and learn hidden gems from around the world in this collection of 51 board games, tabletop games and more! Whether you like to sit and strategize or rely on reflexes, Clubhouse Games: 51 Worldwide Classics contains games from across an array of genres for you to play and discover. Each game is presented with stunning detail as dice clack, marbles glimmer, and chess pieces tumble off the board when it\u2019s jostled.\n\nYou can brush up on your skills or learn a new game through helpful in-game tutorials, assist features, and even an Undo button in certain games. Strategic players will feel right at home with games like Four-in-a-row and Renegade, while those who prefer to use their reflexes can enjoy games like Slot Cars and Toy Boxing! \n\nBring all 51 games on the go in handheld mode or play on the big screen for your next game night. Gather some friends and line up multiple Nintendo Switch systems in tabletop mode for Mosaic Mode***, which allows the action to spread across up to four screens in certain games! In this mode you can build dozens of Slot Cars racetracks or turn a pond into a river for more fishing fun.\n\nPass a Joy-Con to a friend** to play on a single system or connect to the internet* and play with friends or anyone around the world. If you want some solo practice, multiple difficulty levels of CPU opponents make for tough competition. Each time you play a game, you\u2019ll unlock pieces of trivia filled with fun facts, bits of history, and more!\n\nIn the free supplementary software available on Nintendo eShop, connect with someone who has the full game to play all games that support Local Play! With board games, card games, sports, solitaires, and even a piano keyboard, Clubhouse Games: 51 Worldwide Classics is an eclectic collection of games to play and discover on your Nintendo Switch system.\n\n\n\u30fbEnjoy 51 tabletop games and more from all over the world from the convenience of your Nintendo Switch\u2122 system\n\n\u30fbPlay your favorite games or explore and learn new ones\n\n\u30fbPlay alone or with friends locally*** and online* up to four players",
+        "description": "Play and discover 51 board games, tabletop games, and more all in one package\u2014Clubhouse Games\u2122: 51 Worldwide Classics. This diverse collection includes games from all over the world across multiple genres, from familiar favorites like Chess to international hits like Mancala that have been around for 100s of years!\n\nPlay on the go, on the TV, with friends in-person or online*, with one Joy-Con\u2122 controller per player** or sharing the touch screen, and even across the screens of multiple Nintendo Switch systems with Mosaic Mode***! In this mode you can build dozens of Slot Cars racetracks or turn a pond into a river for more fishing fun.\n\nCompetitive players and board game enthusiasts who want to improve their skills can challenge multiple difficulty levels of CPU opponents, collectors can unlock trivia facts about each game, and beginners and game masters alike can go for a personal best! Get a taste of some of the games included in the Clubhouse Games: 51 Worldwide Classics game by downloading the Clubhouse Games Guest Pass for free by clicking on the \"Download Demo\u201d button on the right side of the screen\u2014you can even play all Local Play-supported games if you connect with someone who has the full game!\n \nEnjoy familiar favorites and learn hidden gems from around the world in this collection of 51 board games, tabletop games and more! Whether you like to sit and strategize or rely on reflexes, Clubhouse Games: 51 Worldwide Classics contains games from across an array of genres for you to play and discover. Each game is presented with stunning detail as dice clack, marbles glimmer, and chess pieces tumble off the board when it\u2019s jostled.\n\nYou can brush up on your skills or learn a new game through helpful in-game tutorials, assist features, and even an Undo button in certain games. Strategic players will feel right at home with games like Four-in-a-row and Renegade, while those who prefer to use their reflexes can enjoy games like Slot Cars and Toy Boxing! \n\nBring all 51 games on the go in handheld mode or play on the big screen for your next game night. Gather some friends and line up multiple Nintendo Switch systems in tabletop mode for Mosaic Mode***, which allows the action to spread across up to four screens in certain games! In this mode you can build dozens of Slot Cars racetracks or turn a pond into a river for more fishing fun.\n\nPass a Joy-Con to a friend** to play on a single system or connect to the internet* and play with friends or anyone around the world. If you want some solo practice, multiple difficulty levels of CPU opponents make for tough competition. Each time you play a game, you\u2019ll unlock pieces of trivia filled with fun facts, bits of history, and more!\n\nIn Clubhouse Games Guest Pass, available for free on Nintendo eShop, test out four of the included games, or connect with someone who has the full game to play all games that support Local Play! With board games, card games, sports games, solitaires, and even a piano keyboard, Clubhouse Games: 51 Worldwide Classics is an eclectic collection of games to play and discover on your Nintendo Switch system.",
         "languages": [
             "ja",
             "en",
@@ -6667,7 +6664,7 @@
             "zh",
             "zh"
         ],
-        "size": 2494562304
+        "size": 2501902336
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -6832,6 +6829,34 @@
             "fr"
         ],
         "size": 4358930432
+    },
+    "70030000003021": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Toad\u2122: Treasure Tracker Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000003021,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 221249536,
+        "parentId": "01009BF0072D4000"
     },
     "70030000005101": {
         "id": "0100ED800CBFC000",
@@ -7313,6 +7338,36 @@
         "languages": null,
         "size": 1225785344,
         "parentId": "01003D200BAA2000"
+    },
+    "70030000011685": {
+        "id": null,
+        "rightsId": null,
+        "name": "Clubhouse Games\u2122: 51 Worldwide Classics Guest Pass",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000011685,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence",
+            "Simulated Gambling",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2228224000,
+        "parentId": "010047700D540000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -17214,7 +17269,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 12054429696
+        "size": 12127830016
     },
     "70070000008561": {
         "id": null,
